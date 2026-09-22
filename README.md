@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a192f,100:0f2f5c&height=220&section=header&text=João%20Victor%20Feliciano&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20%7C%20Front-end%20em%20constru%C3%A7%C3%A3o&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a192f,100:0f2f5c&height=220&section=header&text=João%20Victor%20Feliciano&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%40%20UCB%20%7C%202%C2%B0%20Semestre&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
 <a href="https://github.com/jvfpereira10-pixel">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=560&lines=Estudante+de+Desenvolvimento+Web;Construindo+projetos+com+HTML%2C+CSS+e+JavaScript;Aprendendo+um+pouco+mais+a+cada+dia;Bem-vindo+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UCB;Construindo+projetos+com+HTML%2C+CSS+e+JavaScript;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio;Evoluindo+t%C3%A9cnica+e+conhecimento+todos+os+dias" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🎓_Ciência_da_Computação-UCB-0a192f?style=for-the-badge&labelColor=000000&color=3B82F6"/>
+<img src="https://img.shields.io/badge/📚_2°_Semestre-000000?style=for-the-badge&labelColor=000000&color=3B82F6"/>
+<img src="https://img.shields.io/badge/🔍_Aberto_a_Estágio-000000?style=for-the-badge&labelColor=000000&color22c55e"/>
 
 </div>
 
@@ -17,12 +23,18 @@
 ```js
 const joao = {
     nome: "João Victor Feliciano",
-    area: "Estudante",
-    foco: ["HTML", "CSS", "JavaScript"],
-    objetivo: "Evoluir como desenvolvedor front-end, um projeto de cada vez",
-    curiosidade: "Cada linha de código é um passo a mais no aprendizado"
+    curso: "Ciência da Computação",
+    universidade: "Universidade Católica de Brasília (UCB)",
+    semestre: "2° semestre",
+    tecnologias: ["HTML", "CSS", "JavaScript"],
+    momentoAtual: "Buscando estágio e aprimorando habilidades técnicas",
+    objetivo: "Transformar o que aprendo na universidade em projetos reais"
 };
 ```
+
+Estou no início da minha jornada na graduação, conciliando o conteúdo da faculdade com a prática em projetos próprios. Cada repositório aqui representa um passo desse processo — do básico ao que estou aprendendo agora.
+
+> 💼 **Estou em busca de uma oportunidade de estágio** para colocar em prática o que venho estudando e continuar evoluindo como desenvolvedor. Se você tem uma vaga ou quer trocar uma ideia, me chama nas redes sociais abaixo!
 
 <br>
 
@@ -122,5 +134,5 @@ const joao = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2f5c,50:0a192f,100:000000&height=120&section=footer"/>
 
 <div align="center">
-  <sub>Feito com dedicação por João Victor Feliciano — sempre aprendendo um pouco mais 🖤</sub>
+  <sub>Feito com dedicação por João Victor Feliciano — estudante de Ciência da Computação, em busca de estágio e sempre aprendendo 🖤</sub>
 </div>
