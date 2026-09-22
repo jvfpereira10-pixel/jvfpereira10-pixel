@@ -5,8 +5,7 @@
 <br>
 
 <a href="https://github.com/jvfpereira10-pixel">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UCB;Construindo+projetos+com+HTML%2C+CSS+e+JavaScript;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio;Evoluindo+t%C3%A9cnica+e+conhecimento+todos+os+dias" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=750&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UCB;Construindo+projetos+com+HTML%2C+CSS+e+JavaScript;Em+busca+da+minha+primeira+oportunidade+de+est%C3%A1gio;Evoluindo+t%C3%A9cnica+e+conhecimento+todos+os+dias" alt="Typing SVG" />
 
 <br><br>
 
