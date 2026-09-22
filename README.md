@@ -75,27 +75,6 @@ const joao = {
 
 </div>
 
-<br>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jvfpereira10-pixel&theme=react-dark&bg_color=000000&color=3B82F6&line=3B82F6&point=ffffff&area=true&hide_border=true" width="90%"/>
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jvfpereira10-pixel&theme=darkhub&no-frame=true&margin-w=10&column=7" width="90%"/>
-
-</div>
-
-<br>
 
 ## 🐍 Snake Contribution
 
